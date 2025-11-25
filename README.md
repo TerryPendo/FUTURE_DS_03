@@ -47,22 +47,24 @@ The deliverables:
 4. Boxplots (variability across categories)  
 5. Sentiment Distribution (pie + bar charts)  
 
-> **Preview images:** 
+> **Preview images:**
 - *Figure 1: Average ratings per feedback category.*
-![Average Ratings](images/avg_ratings.png)
+![Average Ratings](average_feedbacks.png)
 
--*Figure 1: Distribution of ratings Histogram.*
--
+- *Figure 2: Distribution of ratings Histogram.*
+![Average Ratings](histograms_distribution.png)
 
--*Figure 2: Correlation Heatmap of Feedback Ratings.*
-- `images/heatmap.png`
+-*Figure 3: Correlation Heatmap of Feedback Ratings.*
+![Average Ratings](correlation_heatmap.png)
 
-- *Figure 3: Boxplot of Student Feedback ratings.*
-- `images/boxplots.png`
+- *Figure 4: Boxplot of Student Feedback ratings.*
+![Average Ratings](box_plots.png)
 
-- *Figure 4: Piechart of Sentiment Analysis.*
-- `images/sentiment_pie.png`
+- *Figure 5: Piechart of Sentiment Analysis.*
+![Average Ratings](piechart_sentiments.png)
 
+- *Figure 6:sentiment count chart.*
+![Average Ratings](sentiment_count_chart.png)
 ---
 
 ## Recommendations
