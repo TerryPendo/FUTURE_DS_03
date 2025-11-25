@@ -12,7 +12,12 @@ The deliverables:
 - This README summarizing findings and recommendations.
 
 ---
+## Tools and Libraries
+- Google Colab/Jupyter Notebook for Coding
+- pandas- Data manipulation
+- seaborn/matplotlib - visualization
 
+---
 ## Data
 - Source: Kaggle — *Student Feedback Survey Responses* 
 - Key fields: `student_id`, `well_versed_with_subject`, `explains_concept_well`, `use_of_presentations`, `degree_of_difficulty_of_assignments`, `solves_doubts_willingly`, `structuring_of_course`, `provides_support_for_students`, `course_recommendations`
@@ -42,21 +47,35 @@ The deliverables:
 4. Boxplots (variability across categories)  
 5. Sentiment Distribution (pie + bar charts)  
 
-> **Preview images:** (include screenshots below or link to `/images` folder)
-- `images/avg_ratings.png`
+> **Preview images:** 
+- *Figure 1: Average ratings per feedback category.*
+![Average Ratings](images/avg_ratings.png)
+
+-*Figure 1: Distribution of ratings Histogram.*
+-
+
+-*Figure 2: Correlation Heatmap of Feedback Ratings.*
 - `images/heatmap.png`
+
+- *Figure 3: Boxplot of Student Feedback ratings.*
 - `images/boxplots.png`
+
+- *Figure 4: Piechart of Sentiment Analysis.*
 - `images/sentiment_pie.png`
 
 ---
 
 ## Recommendations
-1. **Revise assignment design** — provide clearer rubrics, examples, and scaffolded tasks.  
-2. **Standardize presentation materials** — adopt a template and share best practices among instructors.  
-3. **Improve course structure** — ensure clear alignment between lectures, materials, and assessment.  
-4. **Expand student support channels** — scheduled office hours, Q&A sessions, or peer tutoring.  
-5. **Collect qualitative feedback** — add open-ended comment fields in future surveys for richer insight.
+1. **Revise assignments** — adjust scope or provide clearer rubrics and example solutions to reduce perceived difficulty.  
+2. **Standardize presentations** — create a presentation template and best-practice guidelines for instructors to reduce variability.  
+3. **Strengthen course structure** — review syllabus flow to ensure alignment between taught material and assignments.  
+4. **Increase student support** — offer scheduled doubt-solving sessions or office hours to raise satisfaction and recommendations.  
+5. **Collect open-text feedback next time** — qualitative comments will improve understanding of *why* students feel neutral.
 
+## Next steps (for future cycles)
+- Run targeted surveys about assignments and presentations.
+- A/B test a revised assignment rubric with a small student group.
+- Track changes in overall satisfaction and recommendation rate after interventions.
 ---
 
 ## How to reproduce
@@ -69,6 +88,6 @@ The deliverables:
 
 ## Contact
 - Teresia Pendo — terry.mwagona@gmail.com  
-- GitHub: `https://github.com/TerryPendo/FUTURE_DS_03`
+- Linkedin: `(https://www.linkedin.com/in/teresiamwagonadata)`
 
 
